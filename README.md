@@ -6,6 +6,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen)
 
 ---
 
@@ -91,6 +92,7 @@ It is used in the Streamlit application for real-time predictions.
 
 ## 📦 Project Structure
 
+```
 titanic-ml-project/
 │
 ├── app.py # Streamlit web app
@@ -116,14 +118,24 @@ titanic-ml-project/
 │ ├── clean_titanic.csv
 │ ├── titanic.csv
 │
+```
 
 ---
 
 ## 🌐 How to Run Locally
 
-1.  Clone repo
-2.  Install requirements: pip install -r requirements.txt
-3.  Run: streamlit run app.py
+```bash
+Clone repo
+Install requirements: pip install -r requirements.txt
+Run: streamlit run app.py
+```
+
+---
+
+## 🌐 Live Demo
+
+👉 **Try the app here:**  
+[![Open App](https://img.shields.io/badge/Open%20Streamlit-App-red)](https://titanic-ml-prediction.streamlit.app/)
 
 ---
 
